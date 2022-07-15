@@ -1,0 +1,15 @@
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\bin\Debug\net6.0\DirectoryInfoTest.exe
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\bin\Debug\net6.0\DirectoryInfoTest.deps.json
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\bin\Debug\net6.0\DirectoryInfoTest.runtimeconfig.json
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\bin\Debug\net6.0\DirectoryInfoTest.dll
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\bin\Debug\net6.0\DirectoryInfoTest.pdb
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\DirectoryInfoTest.csproj.AssemblyReference.cache
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\DirectoryInfoTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\DirectoryInfoTest.AssemblyInfoInputs.cache
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\DirectoryInfoTest.AssemblyInfo.cs
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\DirectoryInfoTest.csproj.CoreCompileInputs.cache
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\DirectoryInfoTest.dll
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\refint\DirectoryInfoTest.dll
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\DirectoryInfoTest.pdb
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\DirectoryInfoTest.genruntimeconfig.cache
+F:\CsharpVSProject\DirectoryInfoTest\DirectoryInfoTest\obj\Debug\net6.0\ref\DirectoryInfoTest.dll
